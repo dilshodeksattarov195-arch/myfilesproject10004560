@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usereerify",
+        "uuid": 41418480,
+        "checksum": "hafi3p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
